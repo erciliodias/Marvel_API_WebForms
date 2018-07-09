@@ -1,0 +1,9 @@
+C:\Users\Ercilio\source\repos\Marvel_API_WebForms\Business\bin\Debug\Business.dll
+C:\Users\Ercilio\source\repos\Marvel_API_WebForms\Business\bin\Debug\Business.pdb
+C:\Users\Ercilio\source\repos\Marvel_API_WebForms\Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ercilio\source\repos\Marvel_API_WebForms\Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ercilio\source\repos\Marvel_API_WebForms\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\Ercilio\source\repos\Marvel_API_WebForms\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Ercilio\source\repos\Marvel_API_WebForms\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Ercilio\source\repos\Marvel_API_WebForms\Business\obj\Debug\Business.dll
+C:\Users\Ercilio\source\repos\Marvel_API_WebForms\Business\obj\Debug\Business.pdb

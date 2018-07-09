@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Marvel_API_WebForms", "Marvel_API_WebForms\", "{424EF59A-96AB-4A74-B88B-5836301BC8C4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		ProjectReferences = "{2793bb48-9c76-4038-920f-9ec6178f0872}|Business.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52874"
+		Debug.AspNetCompiler.PhysicalPath = "Marvel_API_WebForms\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52874\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52874"
+		Release.AspNetCompiler.PhysicalPath = "Marvel_API_WebForms\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52874\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52874"
+		SlnRelativePath = "Marvel_API_WebForms\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{2793BB48-9C76-4038-920F-9EC6178F0872} = {2793BB48-9C76-4038-920F-9EC6178F0872}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{2793BB48-9C76-4038-920F-9EC6178F0872}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{424EF59A-96AB-4A74-B88B-5836301BC8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424EF59A-96AB-4A74-B88B-5836301BC8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424EF59A-96AB-4A74-B88B-5836301BC8C4}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{424EF59A-96AB-4A74-B88B-5836301BC8C4}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2793BB48-9C76-4038-920F-9EC6178F0872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2793BB48-9C76-4038-920F-9EC6178F0872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2793BB48-9C76-4038-920F-9EC6178F0872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2793BB48-9C76-4038-920F-9EC6178F0872}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F89F42-BFBE-4BCB-A4F1-1A82D84A726B}
+	EndGlobalSection
+EndGlobal
